@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\TextEditing.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\bin\Debug\txtEdit.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\bin\Debug\txtEdit.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\bin\Debug\txtEdit.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\txtEdit\obj\Debug\txtEdit.pdb
